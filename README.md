@@ -1,5 +1,5 @@
-<!-- [中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
-
+<!-- [ git clone your-link-github-fork中文](https://github.com/ArweaveOasis/Arweave-AO-Dev-Learning/blob/main/README_CN.md) / English -->
+cd Arweave-Academy/submissions/
 # School of DumDum
 
 <div>
